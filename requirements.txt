@@ -1,0 +1,6 @@
+numpy==1.23.1
+pandas==1.4.3
+matplotlib==3.5.2
+IPython==8.4.0
+six==1.16.0
+tensorflow==2.9.1
